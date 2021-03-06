@@ -48,6 +48,9 @@ public class Penson {
 
         System.out.println("我是第二次进来了");
         System.out.println("我是第三次");
+        System.out.println("我怕死了2");
+        System.out.println("我怕死了2");
+        System.out.println("我怕死了32");
     }
     public static int getMax(int[] arr,int b){
         for (int j = 0; j < arr.length; j++) {
