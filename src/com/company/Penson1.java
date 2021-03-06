@@ -7,6 +7,9 @@ package com.company;
 public class Penson1 {
 
     public static void main(String[] args){
+
+
+        System.out.println("我还要在实验一次");
     }
 
 }
