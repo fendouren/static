@@ -10,6 +10,7 @@ public class Penson1 {
         System.out.println("我走了");
         System.out.println("我走了");
         System.out.println("我走了111");
+        System.out.println("我走了222");
     }
 
 }
