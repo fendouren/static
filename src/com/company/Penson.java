@@ -46,6 +46,7 @@ public class Penson {
         int[] ints = ArrayTool.enchange(arr, a, b);
         ArrayTool.showArr(ints);
 
+        System.out.println("我是第二次进来了");
     }
     public static int getMax(int[] arr,int b){
         for (int j = 0; j < arr.length; j++) {
